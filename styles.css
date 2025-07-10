@@ -846,11 +846,7 @@ footer {
     }
 
     .hero-image {
-        flex: none;
-        width: 280px;
-        height: 450px;
-        position: relative;
-        transform: none;
+        display: none;
     }
 
     .phone-mockup {
